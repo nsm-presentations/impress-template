@@ -95,7 +95,7 @@
     <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
 </div>
 
-@inputcontent
+@content()
 
 <!--
     This is a UI plugin. You can read more about plugins in src/plugins/README.md.
